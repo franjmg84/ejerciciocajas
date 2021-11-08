@@ -1,0 +1,45 @@
+#caja1{
+    position: absolute;
+    top: 130px;
+    left: 600px;
+    background-color: coral;
+    height: 110px;
+    width: 200px;
+    border: 2px;
+    border-color: rgb(131, 128, 128);
+    border-style: solid;
+ }
+
+ #caja2{
+     position: absolute;
+     top: 179px;
+     left: 450px;
+     background-color: cyan;
+     width: 130px;
+     height: 60px;
+     border: 2px;
+     border-color: rgb(131, 128, 128);
+     border-style: solid;
+ }
+
+ #caja3{
+     position: absolute;
+     top: 208px;
+     left: 410px;
+     background-color: greenyellow;
+     width: 20px;
+     height: 30px;
+     border: 2px;
+     border-color: rgb(131, 128, 128);
+     border-style: solid;
+ }
+
+ h1{
+     
+    text-align: center;
+}
+
+h2{
+
+    text-align: center;
+}
